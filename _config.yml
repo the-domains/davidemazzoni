@@ -1,20 +1,4 @@
-name: DavideMazzoni
-favicon: null
-layout_spectrum: 0.25572
-typography_spectrum: 0.24804
-title: Il mio GridBlog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#3C493F'
@@ -22,8 +6,13 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.326813816325739
-  lightness: 0.9788501027505845
+  brandStrength: 0.326813
+  lightness: 0.493421
+  rhythmicContrast: 0.811678
   saturation: 0.3125
-  rhythmicContrast: 0.8970725757535547
+cta: {}
+layout_spectrum: 0.25572
+name: DavideMazzoni
+opengraph: {}
 purpose: []
+typography_spectrum: 0.24804
