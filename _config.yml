@@ -1,7 +1,7 @@
 name: DavideMazzoni
 favicon: null
-layout_spectrum: 0.0904382518492639
-typography_spectrum: 0.46469737868756056
+layout_spectrum: 0.25572
+typography_spectrum: 0.24804
 title: Il mio GridBlog
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#A2E3C4'
   brandStrength: 0.326813816325739
   lightness: 0.9788501027505845
-  saturation: 0.362439913675189
+  saturation: 0.3125
   rhythmicContrast: 0.8970725757535547
 purpose: []
