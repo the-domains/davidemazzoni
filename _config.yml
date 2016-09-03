@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.24804
 color:
   brandColors:
     - '#3C493F'
@@ -10,9 +10,13 @@ color:
   lightness: 0.493421
   rhythmicContrast: 0.811678
   saturation: 0.3125
-cta: {}
-layout_spectrum: 0.25572
-name: DavideMazzoni
 opengraph: {}
+layout_spectrum: 0.25572
+analytics: {}
+author:
+  name: Davide
+  email: davide@mazzoni.us
+name: DavideMazzoni
+cta: {}
+title: Emperor
 purpose: []
-typography_spectrum: 0.24804
